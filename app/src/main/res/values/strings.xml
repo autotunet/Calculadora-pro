@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Gestor de Archivos Pro</string>
+    <string name="nav_explorer">Explorar</string>
+    <string name="nav_categories">Categorías</string>
+    <string name="nav_recents">Recientes</string>
+    <string name="nav_favorites">Favoritos</string>
+    <string name="nav_storage">Espacio</string>
+
+    <string name="category_documents">Documentos</string>
+    <string name="category_photos">Fotos e Imágenes</string>
+    <string name="category_audio">Audio y Música</string>
+    <string name="category_video">Videos</string>
+    <string name="category_archives">Comprimidos</string>
+    <string name="category_downloads">Descargas</string>
+
+    <string name="search_placeholder">Buscar archivos, fotos, carpetas…</string>
+    <string name="storage_internal">Almacenamiento Interno</string>
+    <string name="storage_workspace">Espacio de Trabajo</string>
+
+    <string name="new_folder">Nueva carpeta</string>
+    <string name="new_file">Nuevo documento</string>
+    <string name="rename">Renombrar</string>
+    <string name="delete">Eliminar</string>
+    <string name="copy">Copiar</string>
+    <string name="cut">Cortar</string>
+    <string name="move">Mover</string>
+    <string name="paste">Pegar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="save">Guardar</string>
+    <string name="confirm">Confirmar</string>
+    <string name="file_details">Detalles</string>
+    <string name="share">Compartir</string>
+    <string name="refresh">Actualizar</string>
+
+    <string name="recent_files">Archivos Recientes</string>
+    <string name="recent_files_subtitle">Últimos archivos abiertos o modificados</string>
+    <string name="see_all">Ver todos</string>
+    <string name="empty_folder">Carpeta vacía</string>
+    <string name="empty_folder_hint">Usa el botón (+) para crear una carpeta o documento</string>
+    <string name="empty_recents">No hay archivos recientes</string>
+    <string name="empty_recents_hint">Los archivos que abras o consultes aparecerán organizados aquí</string>
+    <string name="empty_favorites">No hay favoritos guardados</string>
+    <string name="empty_favorites_hint">Marca con una estrella tus carpetas o archivos para acceder rápidamente</string>
+    <string name="clear_recents">Limpiar historial</string>
+
+    <string name="sort_by">ORDENAR POR</string>
+    <string name="sort_name_asc">Nombre (A a Z)</string>
+    <string name="sort_name_desc">Nombre (Z a A)</string>
+    <string name="sort_date_desc">Fecha (Más reciente)</string>
+    <string name="sort_date_asc">Fecha (Más antiguo)</string>
+    <string name="sort_size_desc">Tamaño (Mayor tamaño)</string>
+    <string name="sort_size_asc">Tamaño (Menor tamaño)</string>
+
+    <string name="language_settings">Idioma de la aplicación</string>
+    <string name="select_language">Seleccionar idioma</string>
+    <string name="lang_system">Predeterminado del sistema</string>
+    <string name="lang_es">Español</string>
+    <string name="lang_en">English</string>
+    <string name="lang_pt">Português</string>
+    <string name="lang_fr">Français</string>
+
+    <string name="storage_permission_title">Acceso al Almacenamiento</string>
+    <string name="storage_permission_msg">Para administrar y visualizar todos tus archivos, documentos e imágenes locales, la aplicación requiere permisos de almacenamiento.</string>
+    <string name="grant_permission">Conceder Permisos</string>
+    <string name="continue_local_workspace">Continuar con Espacio Local</string>
+
+    <string name="delete_confirm_title">¿Eliminar elemento?</string>
+    <string name="delete_confirm_msg">Esta acción eliminará definitivamente \"%1$s\".</string>
+    <string name="delete_batch_title">¿Eliminar elementos seleccionados?</string>
+    <string name="delete_batch_msg">Esta acción eliminará definitivamente los %1$d elementos seleccionados.</string>
+
+    <string name="google_ad_badge">Ad</string>
+    <string name="google_admob_title">Google AdMob</string>
+    <string name="google_app_id" translatable="false">1:149526257433:android:1495262574338316</string>
+</resources>

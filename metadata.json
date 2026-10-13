@@ -1,0 +1,6 @@
+{
+  "name": "Gestor de Archivos Pro",
+  "description": "Explorador y administrador de archivos avanzado para organizar documentos, fotos y carpetas locales con búsqueda rápida y herramientas profesionales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

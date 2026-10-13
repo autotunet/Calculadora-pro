@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Gestor de Archivos Pro</string>
+    <string name="nav_explorer">Explore</string>
+    <string name="nav_categories">Categories</string>
+    <string name="nav_recents">Recents</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_storage">Storage</string>
+
+    <string name="category_documents">Documents</string>
+    <string name="category_photos">Photos &amp; Images</string>
+    <string name="category_audio">Audio &amp; Music</string>
+    <string name="category_video">Videos</string>
+    <string name="category_archives">Archives</string>
+    <string name="category_downloads">Downloads</string>
+
+    <string name="search_placeholder">Search files, photos, folders…</string>
+    <string name="storage_internal">Internal Storage</string>
+    <string name="storage_workspace">Workspace</string>
+
+    <string name="new_folder">New folder</string>
+    <string name="new_file">New document</string>
+    <string name="rename">Rename</string>
+    <string name="delete">Delete</string>
+    <string name="copy">Copy</string>
+    <string name="cut">Cut</string>
+    <string name="move">Move</string>
+    <string name="paste">Paste</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="confirm">Confirm</string>
+    <string name="file_details">Details</string>
+    <string name="share">Share</string>
+    <string name="refresh">Refresh</string>
+
+    <string name="recent_files">Recent Files</string>
+    <string name="recent_files_subtitle">Recently opened or modified files</string>
+    <string name="see_all">See all</string>
+    <string name="empty_folder">Empty folder</string>
+    <string name="empty_folder_hint">Use the (+) button to create a folder or document</string>
+    <string name="empty_recents">No recent files</string>
+    <string name="empty_recents_hint">Files you open or edit will appear organized here</string>
+    <string name="empty_favorites">No favorites saved</string>
+    <string name="empty_favorites_hint">Star your favorite folders or files for quick access</string>
+    <string name="clear_recents">Clear history</string>
+
+    <string name="sort_by">SORT BY</string>
+    <string name="sort_name_asc">Name (A to Z)</string>
+    <string name="sort_name_desc">Name (Z to A)</string>
+    <string name="sort_date_desc">Date (Newest first)</string>
+    <string name="sort_date_asc">Date (Oldest first)</string>
+    <string name="sort_size_desc">Size (Largest first)</string>
+    <string name="sort_size_asc">Size (Smallest first)</string>
+
+    <string name="language_settings">App Language</string>
+    <string name="select_language">Select Language</string>
+    <string name="lang_system">System Default</string>
+    <string name="lang_es">Español</string>
+    <string name="lang_en">English</string>
+    <string name="lang_pt">Português</string>
+    <string name="lang_fr">Français</string>
+
+    <string name="storage_permission_title">Storage Access</string>
+    <string name="storage_permission_msg">To manage and browse all your local files, documents, and media, the app requires storage permissions.</string>
+    <string name="grant_permission">Grant Permissions</string>
+    <string name="continue_local_workspace">Continue with Local Workspace</string>
+
+    <string name="delete_confirm_title">Delete item?</string>
+    <string name="delete_confirm_msg">This will permanently delete \"%1$s\".</string>
+    <string name="delete_batch_title">Delete selected items?</string>
+    <string name="delete_batch_msg">This will permanently delete %1$d selected items.</string>
+
+    <string name="google_ad_badge">Ad</string>
+    <string name="google_admob_title">Google AdMob</string>
+</resources>
